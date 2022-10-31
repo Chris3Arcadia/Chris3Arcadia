@@ -2,12 +2,13 @@
 
 My name is Chris E. Arcadia ([@Chris3Arcadia](https://github.com/chris3arcadia)).
 
-- 🧬 I am a machine learning scientist at [Alltrna](https://www.alltrna.com/), where I work on developing tRNA-based therapeutics.
+- 🏢 I work at [Alltrna](https://www.alltrna.com/).
 
-- 🧐 Some of my research interests include machine learning 🤖, drug discovery 💊, cheminformatics 🧪, and electrochemical sensing 🔋.
+- 🧬 I use ML to develop RNA-based therapeutics.
 
-- 💬 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/chris3arcadia/) or [Twitter](https://twitter.com/chris3arcadia).
+- 🧐 My interests include: `machine learning 🤖`, `drug discovery 💊`, `cheminformatics 🧪`, and `electrochemical sensing 🔋`.
 
-- 📜 A summary of my academic work can be found on [Google Scholar](https://scholar.google.com/citations?user=sCborbwAAAAJ).
+- 📜 Read my papers on [Google Scholar](https://scholar.google.com/citations?user=sCborbwAAAAJ).
 
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/chris3arcadia/).
 
